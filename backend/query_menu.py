@@ -17,3 +17,10 @@ def search_menu(query):
 query = input("Ask about the menu (e.g., 'spicy hot items'): ")
 results = search_menu(query)
 print(results)
+
+if not results.empty:
+    print("Scan this QR code to pay for the item!")
+    print("QR Code Location: ../static/gpay_qr.png")
+    pay = input("Want to pay now? (yes/no): ")
+    if pay.lower() == "yes":
+        print("Please open GPay, scan the QR code in static/gpay_qr.png, and pay the amount shown.")
