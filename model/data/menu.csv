@@ -1,4 +1,60 @@
-"item_name,price,tags" 
-"Vada Pav,30,cheap,quick,snack" 
-"Veg Sandwich,40,cheap,quick" 
-"Lemon Tea,30,drink,quick" 
+﻿category,subcategory,item_name,price,hot_cold,is_cold,is_hot,spice_level,tags,
+Food,Salads,Caesar Salad with Feta Cheese,120,cold,1,0,1,healthy,quick
+Food,Salads,Greek Salad,120,cold,1,0,1,healthy,quick
+Food,Salads,Roasted Corn & Mexicana,120,cold,1,0,2,vegetarian,quick
+Food,Salads,Mix Fruit Cocktail,120,cold,1,0,1,fruit,healthy
+Food,Appetizers,Nachos Supreme with Salsa,150,room temp,0,0,2,vegetarian,quick
+Food,Appetizers,Maxican Tart,170,room temp,0,0,2,vegetarian,spicy
+Food,Appetizers,Crunchy Veg Tacos,170,room temp,0,0,2,vegetarian,quick
+Food,Appetizers,Falafel with Hummus,170,room temp,0,0,1,vegetarian,healthy
+Food,Appetizers,Cheese Corn Balls,170,hot,0,1,1,vegetarian,quick
+Food,Appetizers,Mix Veg Lollipop,170,hot,0,1,1,vegetarian,quick
+Food,Pasta & More,Baked Vegaroni with Pineapple,170,hot,0,1,1,vegetarian,sweet
+Food,Pasta & More,Spinach & Mushroom Ravioli,175,hot,0,1,1,vegetarian,filling
+Food,Pasta & More,Pasta in Cheese Sauce,170,hot,0,1,1,vegetarian,creamy
+Food,Pasta & More,Pasta in Pink Sauce,170,hot,0,1,1,vegetarian,creamy
+Food,Pasta & More,Pasta in Pesto Sauce,170,hot,0,1,1,vegetarian,herby
+Food,Pasta & More,Creamy Mushroom Pasta,180,hot,0,1,1,vegetarian,filling
+Food,Pasta & More,Baked Vegetables,180,hot,0,1,1,vegetarian,healthy
+Food,Pasta & More,Butter Tossed Exotic Vegetables,180,hot,0,1,1,vegetarian,healthy
+Food,Breads & Pizza,Cheesy Garlic Bread,170,hot,0,1,1,vegetarian,quick
+Food,Breads & Pizza,Chilli Cheese Toast,170,hot,0,1,2,vegetarian,spicy
+Food,Breads & Pizza,Tomato Basil Bruschetta,170,room temp,0,0,1,vegetarian,quick
+Food,Breads & Pizza,Corn & Jalapeno Bruschetta,170,room temp,0,0,2,vegetarian,spicy
+Food,Breads & Pizza,Mushroom Green Wave,150,hot,0,1,1,vegetarian,healthy
+Food,All Extras,Curd Butter,60-130,cold,1,0,1,vegetarian,side
+Food,All Extras,Tandoori Roti,35,hot,0,1,1,vegetarian,indian
+Food,All Extras,Naan,45-50,hot,0,1,1,vegetarian,indian
+Food,All Extras,Lachha Paratha,50,hot,0,1,1,vegetarian,indian
+Food,Rice Bowls & Others,Cheesy Rice Bowl,170,hot,0,1,1,vegetarian,quick
+Food,Rice Bowls & Others,Spicy Veggie Quesadilla,180,hot,0,1,2,vegetarian,spicy
+Food,Rice Bowls & Others,Shriracha Veggie Burrito,180,hot,0,1,3,vegetarian,spicy
+Food,Rice Bowls & Others,Burrito Supreme,180,hot,0,1,3,vegetarian,filling
+Food,Tandoor Ka Khazana,Achari Paneer Tikka,200,hot,0,1,3,vegetarian,spicy
+Food,Tandoor Ka Khazana,Haryali Paneer Tikka,200,hot,0,1,2,vegetarian,healthy
+Food,Tandoor Ka Khazana,Namkeen Aloo Tikka,150,hot,0,1,2,vegetarian,quick
+Food,Tandoor Ka Khazana,Hara Bhara Kabab,150,hot,0,1,2,vegetarian,healthy
+Food,Tandoor Ka Khazana,Paneer Kathi Roll,150,hot,0,1,2,vegetarian,quick
+Food,Indian Combos,Kadhai Paneer with Mutter Paneer,220,hot,0,1,3,vegetarian,filling
+Food,Indian Combos,Palak Paneer with Paneer Bhurji,220,hot,0,1,2,vegetarian,creamy
+Food,Indian Combos,Palak Paneer with Paneer Khurchan,220,hot,0,1,2,vegetarian,filling
+Food,Indian Combos,Pindi Chole,200,hot,0,1,3,vegetarian,spicy
+Food,Indian Combos,Mix Vegetables,200,hot,0,1,1,vegetarian,healthy
+Food,Indian Combos,Malai Kofta,200,hot,0,1,1,vegetarian,creamy
+Food,Indian Combos,Dum Aloo Kashmiri,180,hot,0,1,2,vegetarian,rich
+Food,Indian Combos,Dal Fry,200,hot,0,1,2,vegetarian,comfort
+Food,Indian Combos,Veg Dum Biryani with Raita,200,hot,0,1,2,vegetarian,filling
+Drinks,Hot,Coffee (Machine),30,hot,0,1,1,quick,
+Drinks,Hot,Espresso,45,hot,0,1,1,quick,
+Drinks,Hot,Cafe Latte,45,hot,0,1,1,quick,
+Drinks,Hot,Hot Chocolate,50,hot,0,1,1,sweet,
+Drinks,Hot,Butter Milk,25,cold,1,0,1,refreshing,
+Drinks,Cold,Lemon Ice Tea,60,cold,1,0,1,refreshing,
+Drinks,Cold,Fresh Juice,85,cold,1,0,1,healthy,
+Drinks,Cold,Orange,85,cold,1,0,1,fruit,
+Drinks,Cold,Sweet Lime,85,cold,1,0,1,fruit,
+Drinks,Cold,Watermelon,85,cold,1,0,1,fruit,
+Drinks,Cold,Freshly Squeezed Special Juice,100,cold,1,0,1,healthy,
+Drinks,Cold,Tetra Pack Juice,110,cold,1,0,1,convenient,
+Drinks,Cold,Mineral Water (500 ml),20,cold,1,0,1,hydrating,
+Drinks,Cold,Mineral Water (1000 ml),30,cold,1,0,1,hydrating,
